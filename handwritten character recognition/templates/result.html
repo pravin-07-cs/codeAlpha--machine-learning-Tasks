@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Classification Result</title>
+</head>
+<body>
+    <h1>Classification Result</h1>
+    <p>Predicted class: {{ predicted_class }}</p>
+    <img src="{{ url_for('static', filename=image_path) }}" alt="Uploaded Image">
+</body>
+</html>
