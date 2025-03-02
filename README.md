@@ -35,7 +35,6 @@ This project predicts the likelihood of a person having a certain disease based 
 - Python
 - Scikit-learn
 - Pandas
-- Tkinter (if GUI is implemented)
 
 ---
 
@@ -50,7 +49,6 @@ This project classifies handwritten characters (A-Z, 0-9) using a Convolutional 
 ### Technologies Used:
 - Python
 - TensorFlow/Keras
-- OpenCV
 - Tkinter
 
 ---
@@ -65,10 +63,9 @@ Run each project separately by executing the corresponding notebook or script:
 
 ## Dependencies
 Ensure the following dependencies are installed:
-- Python 3.x
+- Python 3.11
 - TensorFlow
 - Keras
-- OpenCV
 - Scikit-learn
 - Pandas
 - NumPy
